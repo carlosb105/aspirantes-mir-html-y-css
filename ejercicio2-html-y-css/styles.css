@@ -1,0 +1,29 @@
+.form{
+    width: 300px;
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin: 0 auto;
+    background: linear-gradient(#bd09b7, #6b4cf5);
+    box-shadow: 10px 10px 12px;
+    
+}
+label, h1{
+    display: block;
+    color: white;
+}
+input.information{
+    padding: 7px;
+    width: 280px;
+}
+select{
+    padding: 7px;
+    width: 100%;
+}
+.only{
+    padding: 5px 15px;
+    margin-left: 220px;
+}
+label{
+    margin-top: 20px;
+}
